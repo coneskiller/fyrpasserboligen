@@ -1,0 +1,1042 @@
+*{
+    margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+    background-color: white;
+    width: 100%;
+    min-height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.læs-mere-spørgsmål{
+color: aqua;
+text-decoration: none;
+font-family: Roboto;
+}
+
+.spørgsmål-main-text{
+color: black;
+font-size: 20px;
+margin-top: 0px;
+padding-top: 0px;
+}
+.spørgsmål-special{
+    color: black;
+    font-size: 20px;
+
+}
+.container-cool a{
+    text-decoration: underline;
+}
+.spørgsmål-text{
+
+
+
+}
+.container-cool p{
+    color: black;
+font-size: 20px;
+margin-top: 0px;
+padding: 0px;
+}
+.container-cool label{
+    text-decoration: underline;
+    color: rgb(56, 119, 119);
+    
+}
+
+.container-cool span{
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    font-family: Roboto;
+
+}
+
+
+
+
+
+
+
+
+
+
+.spørgsmål-div-first{
+    width: 90%;
+    background-color: white;
+margin: 0 auto;
+box-sizing: 0 0 5px rgba(black);
+border-radius: 15px;
+
+}
+
+
+.spørgsmål-div-first p{
+    
+    text-align: justify;
+margin-bottom: 5px;
+
+}
+#spørgsmåla{
+    display: none;
+}
+.content-first{
+    display: none;
+    transition: 0.5s linear;
+}
+label{
+    display: inline-block;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+font-weight: 600;
+
+
+}
+#spørgsmåla:checked ~ .content-first{
+    display: block;
+
+
+}
+#spørgsmåla:checked ~ label{
+    visibility: hidden;
+}
+
+#spørgsmåla:checked ~ label:after{
+    content: "Vis mindre... ";
+    display: block;
+visibility: visible;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.spørgsmål-div-second{
+    width: 90%;
+    background-color: white;
+border-radius: 15px;
+
+margin: 0 auto;
+box-sizing: 0 0 5px rgba(black);
+
+}
+
+
+.spørgsmål-div-second p{
+    line-height: 1.4;
+    text-align: justify;
+margin-bottom: 5px;
+
+}
+#spørgsmålb{
+    display: none;
+}
+.content-second{
+    display: none;
+    transition: 0.5s linear;
+}
+label{
+    display: inline-block;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+font-weight: 600;
+
+
+}
+#spørgsmålb:checked ~ .content-second{
+    display: block;
+
+
+}
+#spørgsmålb:checked ~ label{
+    visibility: hidden;
+}
+
+#spørgsmålb:checked ~ label:after{
+    content: "Vis mindre... ";
+    display: block;
+visibility: visible;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.spørgsmål-div-third{
+    width: 90%;
+    background-color: white;
+border-radius: 15px;
+margin: 0 auto;
+box-sizing: 0 0 5px rgba(black);
+
+}
+
+
+.spørgsmål-div-third p{
+    line-height: 1.4;
+    text-align: justify;
+margin-bottom: 5px;
+
+}
+#spørgsmålc{
+    display: none;
+}
+.content-third{
+    display: none;
+    transition: 0.5s linear;
+}
+label{
+    display: inline-block;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+font-weight: 600;
+
+
+}
+#spørgsmålc:checked ~ .content-third{
+    display: block;
+
+
+}
+#spørgsmålc:checked ~ label{
+    visibility: hidden;
+}
+
+#spørgsmålc:checked ~ label:after{
+    content: "Vis mindre... ";
+    display: block;
+visibility: visible;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.spørgsmål-div-fourth{
+    width: 90%;
+    background-color: white;
+border-radius: 15px;
+margin: 0 auto;
+box-sizing: 0 0 5px rgba(black);
+
+}
+
+
+.spørgsmål-div-fourth p{
+    line-height: 1.4;
+    text-align: justify;
+margin-bottom: 5px;
+
+}
+#spørgsmåld{
+    display: none;
+}
+.content-fourth{
+    display: none;
+    transition: 0.5s linear;
+}
+label{
+    display: inline-block;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+font-weight: 600;
+
+
+}
+#spørgsmåld:checked ~ .content-fourth{
+    display: block;
+
+
+}
+#spørgsmåld:checked ~ label{
+    visibility: hidden;
+}
+
+#spørgsmåld:checked ~ label:after{
+    content: "Vis mindre... ";
+    display: block;
+visibility: visible;
+
+
+}
+
+
+
+.line-line{
+    opacity: 0.2;
+    margin: 10px;
+    padding: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.spørgsmål-div-fifth{
+    width: 90%;
+    background-color: white;
+border-radius: 15px;
+margin: 0 auto;
+box-sizing: 0 0 5px rgba(black);
+
+}
+
+
+.spørgsmål-div-fifth p{
+    line-height: 1.4;
+    text-align: justify;
+margin-bottom: 5px;
+
+}
+#spørgsmåle{
+    display: none;
+}
+.content-fifth{
+    display: none;
+    transition: 0.5s linear;
+}
+label{
+    display: inline-block;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+font-weight: 600;
+
+
+}
+#spørgsmåle:checked ~ .content-fifth{
+    display: block;
+
+
+}
+#spørgsmåle:checked ~ label{
+    visibility: hidden;
+}
+
+#spørgsmåle:checked ~ label:after{
+    content: "Vis mindre... ";
+    display: block;
+visibility: visible;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.spørgsmål-div-six{
+    width: 90%;
+    background-color: white;
+border-radius: 15px;
+margin: 0 auto;
+box-sizing: 0 0 5px rgba(black);
+
+}
+
+
+.spørgsmål-div-six p{
+    line-height: 1.4;
+    text-align: justify;
+margin-bottom: 5px;
+
+}
+#spørgsmålf{
+    display: none;
+}
+.content-six{
+    display: none;
+    transition: 0.5s linear;
+}
+label{
+    display: inline-block;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+font-weight: 600;
+
+
+}
+#spørgsmålf:checked ~ .content-six{
+    display: block;
+
+
+}
+#spørgsmålf:checked ~ label{
+    visibility: hidden;
+}
+
+#spørgsmålf:checked ~ label:after{
+    content: "Vis mindre... ";
+    display: block;
+visibility: visible;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.spørgsmål-div-seven{
+    width: 90%;
+    background-color: white;
+border-radius: 15px;
+margin: 0 auto;
+box-sizing: 0 0 5px rgba(black);
+
+}
+
+
+.spørgsmål-div-seven p{
+    line-height: 1.4;
+    text-align: justify;
+margin-bottom: 5px;
+
+}
+#spørgsmålg{
+    display: none;
+}
+.content-seven{
+    display: none;
+    transition: 0.5s linear;
+}
+label{
+    display: inline-block;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+font-weight: 600;
+
+
+}
+#spørgsmålg:checked ~ .content-seven{
+    display: block;
+
+
+}
+#spørgsmålg:checked ~ label{
+    visibility: hidden;
+}
+
+#spørgsmålg:checked ~ label:after{
+    content: "Vis mindre... ";
+    display: block;
+visibility: visible;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.spørgsmål-div-eight{
+    width: 90%;
+    background-color: white;
+border-radius: 15px;
+margin: 0 auto;
+box-sizing: 0 0 5px rgba(black);
+
+}
+
+
+.spørgsmål-div-eight p{
+    line-height: 1.4;
+    text-align: justify;
+margin-bottom: 5px;
+
+}
+#spørgsmålh{
+    display: none;
+}
+.content-eight{
+    display: none;
+    transition: 0.5s linear;
+}
+label{
+    display: inline-block;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+font-weight: 600;
+
+
+}
+#spørgsmålh:checked ~ .content-eight{
+    display: block;
+
+
+}
+#spørgsmålh:checked ~ label{
+    visibility: hidden;
+}
+
+#spørgsmålh:checked ~ label:after{
+    content: "Vis mindre... ";
+    display: block;
+visibility: visible;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.spørgsmål-div-nine{
+    width: 90%;
+    background-color: white;
+border-radius: 15px;
+margin: 0 auto;
+box-sizing: 0 0 5px rgba(black);
+
+}
+
+
+.spørgsmål-div-nine p{
+    line-height: 1.4;
+    text-align: justify;
+margin-bottom: 5px;
+
+}
+#spørgsmåli{
+    display: none;
+}
+.content-nine{
+    display: none;
+    transition: 0.5s linear;
+}
+label{
+    display: inline-block;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+font-weight: 600;
+
+
+}
+#spørgsmåli:checked ~ .content-nine{
+    display: block;
+
+
+}
+#spørgsmåli:checked ~ label{
+    visibility: hidden;
+}
+
+#spørgsmåli:checked ~ label:after{
+    content: "Vis mindre... ";
+    display: block;
+visibility: visible;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.spørgsmål-div-ten{
+    width: 90%;
+    background-color: white;
+border-radius: 15px;
+margin: 0 auto;
+box-sizing: 0 0 5px rgba(black);
+
+}
+
+
+.spørgsmål-div-ten p{
+    line-height: 1.4;
+    text-align: justify;
+margin-bottom: 5px;
+
+}
+#spørgsmålj{
+    display: none;
+}
+.content-ten{
+    display: none;
+    transition: 0.5s linear;
+}
+label{
+    display: inline-block;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+font-weight: 600;
+
+
+}
+#spørgsmålj:checked ~ .content-ten{
+    display: block;
+
+
+}
+#spørgsmålj:checked ~ label{
+    visibility: hidden;
+}
+
+#spørgsmålj:checked ~ label:after{
+    content: "Vis mindre... ";
+    display: block;
+visibility: visible;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.spørgsmål-div-main{
+    width: 90%;
+    background-color: white;
+margin: 0 auto;
+box-sizing: 0 0 5px rgba(black);
+border-radius: 15px;
+
+}
+
+
+.spørgsmål-div-main p{
+    line-height: 1.4;
+    text-align: justify;
+margin-bottom: 5px;
+
+}
+.spørgsmål-div-main label{
+    display: block;
+
+}
+.spørgsmål-div-main span{
+    display: block;
+}
+#spørgsmålmain{
+    display: none;
+}
+.content-main{
+    display: none;
+    transition: 0.5s linear;
+}
+label{
+    display: inline-block;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+font-weight: 600;
+
+
+}
+#spørgsmålmain:checked ~ .content-main{
+    display: block;
+
+
+}
+#spørgsmålmain:checked ~ label{
+    visibility: hidden;
+}
+
+#spørgsmålmain:checked ~ label:after{
+    content: "Vis mindre... ";
+    display: block;
+visibility: visible;
+
+
+}
+#spørgsmålmain:checked ~ label:after{
+    content: "Vis mindre... ";
+    display: block;
+visibility: visible;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.kavlitet-div{
+    width: 90%;
+    background-color: white;
+border-radius: 15px;
+margin: 0 auto;
+box-sizing: 0 0 5px rgba(black);
+
+}
+
+
+.kavlitet-div p{
+    line-height: 1.4;
+    text-align: justify;
+margin-bottom: 5px;
+
+}
+#oplysninger{
+    display: none;
+}
+.content-oplysninger{
+    display: none;
+    transition: 0.5s linear;
+}
+label{
+    display: inline-block;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+font-weight: 600;
+
+
+}
+#oplysninger:checked ~ .content-oplysninger{
+    display: block;
+
+
+}
+#oplysninger:checked ~ label{
+    visibility: hidden;
+}
+
+#oplysninger:checked ~ label:after{
+    content: "Vis mindre... ";
+    display: block;
+visibility: visible;
+
+
+}
+.img-vild{
+    width: 200px;
+    display: block;
+}
+.img-vild-side{
+    width: 200px;
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.div-links{
+    width: 90%;
+    background-color: white;
+border-radius: 15px;
+margin: 0 auto;
+box-sizing: 0 0 5px rgba(black);
+
+}
+
+
+.div-links p{
+    line-height: 1.4;
+    text-align: justify;
+margin-bottom: 5px;
+
+}
+#link{
+    display: none;
+}
+.links-content{
+    display: none;
+    transition: 0.5s linear;
+}
+label{
+    display: inline-block;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+font-weight: 600;
+
+
+}
+#link:checked ~ .links-content{
+    display: block;
+
+
+}
+#link:checked ~ label{
+    visibility: hidden;
+}
+
+#link:checked ~ label:after{
+    content: "Vis mindre... ";
+    display: block;
+visibility: visible;
+
+
+}
+
+
+.links-content p{
+    color: black;
+    text-decoration: underline;
+font-weight: 500;
+font-size: 22px;
+
+}
+

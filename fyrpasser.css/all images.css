@@ -1,0 +1,163 @@
+.header{
+
+}
+
+.gå-til-top{
+width: 200px;
+height: 40px;
+border-radius: 10px;
+border-width: 1px;
+border-color: black;
+background-color: rgb(0, 255, 17);
+font-size: 22px;
+font-family: Roboto;
+color: rgb(44, 44, 44);
+margin-bottom: 20px;
+cursor: pointer;
+
+}
+
+.logo-img{
+width: 60px;
+
+}
+
+.menu-text-div{
+    width: 100%;
+    padding-top: 20px;
+}
+.logo-img-link{
+    width: 0;
+}
+.logo-div{
+    width: 50px;
+    
+}
+.container-option label{
+    display: flex;
+    justify-content: bottom;
+}
+a{
+    text-decoration: none;
+
+}
+.option-bar-min-div{
+width: 100%;
+}
+.mid-img{
+width: 43%;
+margin: 10px;
+}
+.nom-img{
+width: 43%;
+margin: 10px;
+}
+.big-img{
+width: 90%;
+margin: 10px;
+}
+.full-div{
+    width: 800px;
+    background-color: rgb(236, 236, 236);
+    text-align: center;
+    margin: auto;
+    padding: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.gå-tilbage{
+    width: 150px;
+    height: 30px;
+    background-color: grey;
+    color: rgb(221, 221, 221);
+    font-size: 17px;
+    border-radius: 15px;
+    border-color: rgb(224, 224, 224);
+    border-width: 1px;
+    cursor: pointer;
+    margin-top: 0;
+    text-align: center;
+
+}
+.gå-tilbage-div{
+    text-align: center;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+body{
+margin: 0px;
+margin-bottom: 200px;
+}
+.display-none{
+    display: none;
+}
+
+
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    display: flex;
+    justify-content: center;
+background-color: rgb(226, 226, 226);
+    font-family: Roboto;
+
+
+
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 2000px;
+    background-position: left top, right top,
+        left bottom, right bottom, center bottom;
+
+
+}
+
+
+@media only screen and (max-width: 850px){
+    body{
+        
+    }
+    .full-div{
+        width: 100%;
+        
+    }
+}
+@media only screen and (max-width: 1100px){
+
+.real-header{
+    display: none;
+}
+
+}
+@media only screen and (min-width: 850px) {
+    body {
+        margin-top: 0px;
+        margin-right: 0px;
+        margin-left: 0px;
+        margin-bottom: 0px;
+        display: flex;
+        justify-content: center;
+
+        font-family: Roboto;
+
+
+
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 2000px;
+        background-position: left top, right top,
+            left bottom, right bottom, center bottom;
+
+    }
+}
+@media only screen and (max-width: 300px){
+    .mid-img{
+width: 40%;
+    }
+.nom-img{
+    width: 40%;
+}
+
+    }

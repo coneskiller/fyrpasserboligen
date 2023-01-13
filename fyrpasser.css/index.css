@@ -1,0 +1,851 @@
+.læs-mere-spørgsmål {
+    color: black;
+    font-family: Roboto
+}
+.logo{
+    
+}
+
+
+.room-button-a{
+
+
+}
+.room-button-b{
+
+
+}
+.room-button-c{
+
+
+}
+.room-button-d{
+
+}
+.room-button-e{
+width: px;
+
+}
+.room-button-a, .room-button-b, .room-button-c, .room-button-d, .room-button-e{
+    width: 100px;
+display: inline-block;
+height: 70px;
+}
+
+
+
+.container-room{
+width: 140px;
+display: inline-block;
+
+}
+.div-room-button{
+    width: 140px;
+display: inline-block;
+
+}
+
+.container-room-full-div{
+display: inline-block;
+background-color: white;
+padding: 20px;
+
+
+}
+
+
+
+
+
+.logo-index-img {
+    width: 50px;
+    align-items: top;
+}
+
+.the-entire-div {
+    background-color: rgb(243, 243, 243);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    box-shadow: 2px 2px 2px rgba(211, 211, 211, 0.8);
+
+
+}
+
+.fyrpasser-title {
+    display: inline-block;
+
+
+
+}
+
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    display: flex;
+    justify-content: left;
+
+    font-family: Roboto;
+
+
+
+    
+    
+    height: 100%;
+   
+
+
+}
+
+.option-text {
+    font-family: Roboto;
+    font-weight: 500;
+}
+
+.option-bar-div {
+    width: 100%;
+    margin-right: 10px;
+    float: left;
+    display: flex;
+    justify-content: left;
+}
+
+.back-images {}
+
+.imgb {}
+
+.option-bar {
+    display: block;
+    height: 4px;
+    width: 20px;
+    border-radius: 2px;
+    border-width: 0px;
+    background-color: grey;
+    margin-bottom: 2px;
+    cursor: pointer;
+
+}
+
+.container-option {
+    margin-top: 10px;
+    cursor: pointer;
+
+}
+
+.torben-img {
+    width: 50px;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    float: left;
+    margin-right: 15px;
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.vis-billeder-button {
+    width: 150px;
+    height: 30px;
+    background-color: grey;
+    color: rgb(221, 221, 221);
+    font-size: 17px;
+    border-radius: 15px;
+    border-color: rgb(224, 224, 224);
+    border-width: 1px;
+    cursor: pointer;
+    margin-top: 0;
+    display: block;
+}
+
+.læs-mere {
+    color: rgb(60, 131, 131);
+    cursor: pointer;
+}
+
+.line {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    opacity: 0.2;
+}
+
+.line-a {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    opacity: 0.2;
+
+}
+
+.kvalitet-div {
+    width: 90%;
+    background-color: #fff;
+    padding: 20px;
+    margin: 0 auto;
+    box-sizing: 0 0 5px rgba(0, 0, 0, 0, 5);
+}
+
+.oplysninger-start-first {
+    font-family: Roboto;
+    font-weight: 500;
+    margin-right: 55px;
+    font-size: 20px;
+
+}
+
+.oplysninger-start-second {
+    font-family: Roboto;
+    font-weight: 400;
+    margin-right: 103px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.oplysninger-start-third {
+    font-family: Roboto;
+    font-weight: 400;
+    margin-right: 80px;
+    font-weight: 500;
+    font-size: 20px;
+
+}
+
+.oplysninger-start-fourth {
+    font-family: Roboto;
+    font-weight: 400;
+    margin-right: 10px;
+    font-weight: 500;
+    font-size: 20px;
+
+}
+
+.oplysninger-div {
+    margin-bottom: 10px;
+}
+
+.oplysninger-læs-mere {
+    text-decoration: underline;
+    color: rgb(60, 131, 131);
+    margin-bottom: 10px;
+    margin-top: 0px;
+
+
+}
+
+.oplysninger-læs-mere-second {
+    text-decoration: underline;
+    color: rgb(60, 131, 131);
+    margin-top: 13px;
+
+}
+
+.læs-mere-div {}
+
+.oplysninger-svar {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 20px;
+    text-decoration: underline;
+    color: rgb(71, 142, 170);
+
+
+}
+
+.kontakt-oplysninger-title {
+    font-size: 25px;
+    font-family: Roboto;
+    margin-bottom: 0px;
+
+}
+
+
+.torben-img-text {
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 400;
+}
+
+.list-rum {}
+
+.list-rum-div {
+    width: 460px;
+    margin-bottom: 20px;
+}
+
+.fyrpasser-title {
+    font-family: Roboto;
+    font-size: 27px;
+    font-weight: 500;
+    margin-bottom: 5px;
+    margin-top: 30px;
+    width: 395px;
+    margin-bottom: 50px;
+
+}
+
+.logo-div {
+    width: 415px;
+display: inline-block;
+
+}
+
+.logo-index-img {
+    display: flex;
+    justify-content: center;
+    float: left;
+    width: 75px;
+
+}
+
+.real-header {
+    width: 100%;
+    height: 100px;
+    margin-top: 0px;
+    border-width: 0px;
+    background-color: #95d2d6;
+}
+
+.about-me {
+    margin-right: 50px;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.omtagelser {
+    margin-right: 50px;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.email {
+    margin-right: 50px;
+    font-family: Roboto;
+    font-size: 20px;
+
+}
+
+.bolig-adresse {
+    margin-right: 50px;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.haeder {
+    display: none;
+}
+
+.full {
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.slash {
+    opacity: 0.2;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.fyrpassera {
+    width: 398px;
+    display: inline-block;
+    margin-right: 5px;
+    border-top-left-radius: 13px;
+    border-bottom-left-radius: 13px;
+    margin-top: 0px;
+
+
+}
+
+.fyrpasserb {
+    width: 170px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.fyrpasserc {
+    width: 170px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    border-top-right-radius: 13px;
+}
+
+.fyrpasserd {
+    width: 170px;
+    display: inline-block;
+    margin-right: 5px;
+
+}
+
+.fyrpassere {
+    width: 170px;
+    display: inline-block;
+    border-bottom-right-radius: 13px;
+}
+
+.imga {
+    display: inline-block;
+
+
+}
+
+.imgb {
+    display: inline-block;
+    width: 356px;
+    display: none;
+}
+
+.full-img {
+    width: 100%;
+
+}
+
+.super-host {
+    margin-right: 10px;
+    float: left;
+    display: flex;
+    margin-top: 15px;
+
+
+}
+
+.super-host-main-text {
+    display: block;
+    font-size: 17px;
+    font-family: Roboto;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+
+.super-host-text {
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: 300;
+
+
+}
+
+.kvalitet-div {}
+
+.god-location {
+    display: inline-block;
+    max-width: 100%;
+    vertical-align: top;
+    float: left;
+    margin-top: 7px;
+    margin-right: 10px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 700px;
+    background-color: #fff;
+    padding: 20px;
+    margin: 0 auto;
+    box-sizing: 0 0 5px rgba(0, 0, 0, 0, 5);
+}
+
+.container h2 {}
+
+#check:checked~.content {
+    display: block;
+}
+
+.content {
+    display: none;
+    transition: 0.5s linear;
+}
+
+#check {
+    display: none;
+}
+
+.full-img {
+    margin-bottom: 10px;
+}
+
+#check:checked~label {
+    visibility: hidden;
+}
+
+#check:checked~label:after {
+    content: "Vis Mindre...";
+    display: block;
+    visibility: visible;
+}
+
+#om-fyrpasser {
+    margin-bottom: 10px;
+}
+
+p {
+    width: 100%;
+}
+
+.container {}
+
+.text-fyrpasser,
+.full-text-fyrpasser {}
+
+.line-option {
+    opacity: 0.2;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    display: block;
+}
+
+.line-line-line {
+    opacity: 0.2;
+    display: block;
+    margin-bottom: 30px;
+
+}
+
+.option-bar {
+    height: 4px;
+    width: 25px;
+    border-radius: 2px;
+    border-width: 0px;
+    background-color: grey;
+    margin-bottom: 5px;
+    display: block;
+
+}
+
+.menu {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 20px;
+    display: block;
+    width: 100%;
+    margin-right: 500px;
+    text-decoration: none;
+    color: black;
+
+}
+
+.option-bar-min-div {}
+
+.container-option {
+    background-color: transparent;
+    padding: 20px;
+    margin: 0 auto;
+
+    box-sizing: 0 0 5px rgba(0, 0, 0, 0, 5);
+}
+
+#checka:checked~.content {
+    display: block
+}
+
+#checka {
+    display: none;
+}
+
+label {
+    cursor: pointer;
+}
+
+.option-text {
+    display: block;
+    font-family: Roboto;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.option-bar-min-div {
+    float: left;
+    margin-right: 10px;
+}
+
+.content {
+    display: none;
+}
+
+.menu-div {
+    display: inline-block;
+    width: 100px;
+}
+
+.kontakt-div {
+    display: block;
+    float: left;
+}
+
+.spørgsmål {
+    width: 70%;
+    background-color: white;
+    position: relative;
+    padding: 20px 20px 20px;
+
+}
+
+.container-option {
+    display: inline;
+}
+
+.img-div-morfar {
+    padding-top: 10px;
+
+}
+
+.torben-img-div {
+    text-align: left;
+}
+
+@media only screen and (max-width: 850px) {
+   
+    .fyrpassera {
+        border-radius: 20px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+
+   
+
+    .fyrpassera {}
+
+    .imgc {}
+
+    .container p {
+        padding: 20px 0px 0px;
+
+    }
+
+    .container {}
+
+}
+
+@media only screen and (max-width: 450px) {
+    .fyrpassera {
+        width: 100%;
+        display: flex;
+        
+        margin-right: 5px;
+        margin-bottom: 5px;
+    }
+
+}
+
+@media only screen and (max-width: 300px) {
+    .fyrpassera {
+        width: 250px;
+        display: inline-block;
+        margin-right: 5px;
+        margin-bottom: 5px;
+    }
+}
+
+@media only screen and (min-width: 850px) {
+    body {
+        margin-top: 0px;
+        margin-right: 0px;
+        margin-left: 0px;
+        margin-bottom: 0px;
+        display: flex;
+        justify-content: center;
+
+        font-family: Roboto;
+
+       width: 100%;
+        height: 100%;
+        
+
+    }
+    .imgb {
+        display: block;
+        display: inline-block;
+        width: 356px;
+    }
+    
+    .spørgsmål-div-first {
+        width: 680px;
+    }
+
+    .spørgsmål-div-second {
+        width: 680px;
+    }
+
+    .spørgsmål-div-third {
+        width: 680px;
+    }
+
+    .spørgsmål-div-fourth {
+        width: 680px;
+    }
+
+    .spørgsmål-div-fifth {
+        width: 680px;
+    }
+
+    .spørgsmål-div-six {
+        width: 680px;
+    }
+
+    .spørgsmål-div-seven {
+        width: 680px;
+    }
+
+    .spørgsmål-div-eight {
+        width: 680px;
+    }
+
+    .spørgsmål-div-nine {
+        width: 680px;
+    }
+
+    .spørgsmål-div-ten {
+        width: 680px;
+    }
+
+
+
+
+
+}
+
+
+@media only screen and (max-width: 730px) {
+    p {
+        width: 100%;
+    }
+
+   
+
+    span {
+        width: 100%;
+    }
+
+    strong {
+        width: 100%;
+    }
+
+    .actual-full {
+    width: 100%;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+    .torben-img {
+        width: 50px;
+        border-radius: 100px;
+        display: flex;
+        justify-content: center;
+        float: left;
+        margin-right: 15px;
+        margin-top: 0px;
+    }
+
+
+}
+
+@media only screen and (max-width: 550px) {
+    p {}
+
+    .fyrpasser-title {
+        font-size: 23px;
+        width: 340px;
+    }
+    
+
+
+    .kvalitet-div span {
+        display: block;
+    }
+
+}
+
+@media only screen and (min-width: 551px) {
+    p {}
+    .logo-div{
+        width: 470px;
+        display: inline-block;
+    }
+
+}
+
+    @media only screen and (min-width: 720px) {
+        .haeder {
+            display: inline;
+        }
+
+        .container-option {
+            display: none;
+        }
+    }
+
+    @media only screen and (max-width: 700px) {}
+
+
+@media only screen and (max-width: 410px) {
+    .list-rum-div {
+        width: 100%;
+    }
+
+    .list-rum {
+        font-size: 13px;
+    }
+
+    .fyrpasser-title {
+        font-size: 22px;
+        margin-bottom: 54px;
+
+    }
+
+}
+@media only screen and (max-width: 450px){
+    .fyrpasser-title{
+        font-size: 20px;
+        margin-bottom: 60px;
+    }
+
+}
+@media only screen and (max-width: 390px){
+    .fyrpasser-title{
+font-size: 18px;
+margin-bottom: 60px;
+
+    }
+
+
+}
+@media only screen and (max-width: 350px){
+
+}
+@media only screen and (max-width: 320px){
+.fyrpasser-title{
+    
+}
+.kontakt-oplysninger-title{
+font-size: 22px;
+
+}
+.img-vild{
+width: 90%;
+}
+.img-vild-side{
+    width: 90%;
+    display: block;
+}
+.torben-img{
+    margin-bottom: 90px;
+}
+
+}
